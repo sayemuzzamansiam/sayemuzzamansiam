@@ -5,7 +5,7 @@ Computer Science graduate specializing in **Machine Learning & Data Science**. P
 
 ### 🚀 Machine Learning Enthusiast | Deep Learning Explorer
 
-[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  <!-- GitHub Stats -->
+[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  <!-- GitHub Stats -->
 
 
 

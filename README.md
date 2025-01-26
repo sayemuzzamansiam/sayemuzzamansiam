@@ -1,11 +1,12 @@
-# Hi there, I'm Sayemuzzaman Siam 👋  ![Profile Views](https://komarev.com/ghpvc/?username=sayemuzzamansiam&color=blue&style=flat-square)  <!-- Visitor counter -->
+# Hi there, I'm Sayemuzzaman Siam 👋  ![Profile Views](https://komarev.com/ghpvc/?username=sayemuzzamansiam&color=blue&style=flat-square) 
 
 Computer Science graduate specializing in **Machine Learning & Data Science**. Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques 🤖. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.
 
 
 ### 🚀 Machine Learning Enthusiast | Deep Learning Explorer
-
-[![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  <!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical" alt="Sam's GitHub Stats"/>
+</p>
 
 
 
@@ -17,4 +18,4 @@ Computer Science graduate specializing in **Machine Learning & Data Science**. P
 
 
 ## ⚡ Fun Fact  
-When I'm not battling overfitting or tuning hyperparameters, you'll find me either brewing the perfect cup of coffee ☕ or lost in embedding spaces (the *higher-dimensional* kind!) 🧠
+When I'm not battling overfitting or tuning hyperparameters, you'll find me either brewing the perfect cup of coffee ☕ or lost in embedding spaces (the *higher-dimensional* kind!)😂

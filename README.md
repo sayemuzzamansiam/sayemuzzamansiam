@@ -8,10 +8,32 @@ Computer Science graduate specializing in **Machine Learning & Data Science**. P
   <img src="https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical" alt="Sam's GitHub Stats"/>
 </p>
 
-<!--
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
--->
+
+## Language and Tools
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=python&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit_learn-black?style=flat-square&logo=scikit-learn">
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow">
+  <img alt="C" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFB7A9?style=flat-square&logo=huggingface&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img alt="FAISS" src="https://img.shields.io/badge/-FAISS-blue?style=flat-square&logo=faiss">
+
+<!--<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch"> -->
+</p>
+
+
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sayemuzzamansiam&theme=dark&hide_border=true)<br/>

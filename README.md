@@ -9,7 +9,7 @@ Computer Science graduate specializing in **Machine Learning & Data Science**. P
 </p>
 
 
-## Language and Tools
+## Languages and Tools
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white">

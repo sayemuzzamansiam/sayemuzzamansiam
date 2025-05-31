@@ -1,9 +1,9 @@
 # Hi there, I'm Sayemuzzaman Siam 👋  ![Profile Views](https://komarev.com/ghpvc/?username=sayemuzzamansiam&color=blue&style=flat-square) 
 
-Computer Science graduate specializing in **Machine Learning & Data Science**. Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques 🤖. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.
+Computer Science graduate specializing in **Machine Learning & Data Science**. Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.
 
 
-### 🚀 Machine Learning Enthusiast | Deep Learning Explorer
+### Machine Learning Enthusiast | Deep Learning Explorer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayemuzzamansiam&show_icons=true&theme=radical" alt="SayemuzzamanSiam" GitHub Stats width=400 height=200"/>  <br>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayemuzzamansiam&show_icons=true&theme=highcontrast" alt="SayemuzzamanSiam" width=400 height=200/>

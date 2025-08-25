@@ -1,7 +1,7 @@
 # Hi there, I'm Sayemuzzaman Siam 👋  ![Profile Views](https://komarev.com/ghpvc/?username=sayemuzzamansiam&color=blue&style=flat-square) 
 
-**Computer Science Graduate** from **East West University** - Specialized in **Deep Learning & Data Science** <br/>
-**AI Developer at Betopia Group**
+🎓 **Computer Science Graduate** from **East West University** - Specialized in **Deep Learning & Data Science** <br/>
+💼 **AI Developer at Betopia Group**
 
 
 Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.

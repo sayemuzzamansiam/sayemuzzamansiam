@@ -7,7 +7,10 @@
 Passionate about designing intelligent systems through **deep neural networks**, with hands-on experience developing AI solutions for healthcare, NLP, and computer vision using cutting-edge techniques. Dedicated to building **explainable AI (XAI)** systems and open to collaborations that transform complex challenges into impactful implementations.
 
 ## Publications
-📔 My Recently Published Paper: [Read Here](https://link.springer.com/chapter/10.1007/978-981-96-6297-5_21)
+Check out my publications and citations on [Google Scholar](https://scholar.google.com/citations?user=6eadvpUAAAAJ)
+<!--📔 My Recently Published Paper: [Read Here](https://link.springer.com/chapter/10.1007/978-981-96-6297-5_21)-->
+
+
 
 ### Machine Learning Enthusiast | Deep Learning Explorer
 <p align="center">
